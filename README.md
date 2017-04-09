@@ -6,4 +6,5 @@ In this assignment I implemented a standard sctor-critic algorightm and evaluate
 File list,
 
 actor_critic.ipynb is my code and experiment results.
+
 actor_critic.pdf is the presentation slides.
