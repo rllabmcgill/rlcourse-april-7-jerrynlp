@@ -7,4 +7,4 @@ File list,
 
 actor_critic.ipynb is my code and experiment results.
 
-actor_critic.pdf is the presentation slides.
+Actor-critic Algorithms.pdf is the presentation slides.
